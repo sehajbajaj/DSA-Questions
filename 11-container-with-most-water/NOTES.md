@@ -8,16 +8,16 @@
 ​
 ### TC -> O(N2) and SC -> O(1)
 ​
-```
+```c++
 int maxArea(vector<int>& height) {
-int result = 0;
-for(int left = 0; left < height.size(); left++){
-for(int right = left+1; right < height.size(); right++){
-int area = (right-left) * min(height[left], height[right]);
-result = max(result, area);
-}
-}
-return result;
+  int result = 0;
+  for(int left = 0; left < height.size(); left++){
+    for(int right = left+1; right < height.size(); right++){
+      int area = (right-left) * min(height[left], height[right]);
+      result = max(result, area);
+    } 
+  }
+  return result;
 }
 ```
 ​
