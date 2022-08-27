@@ -10,17 +10,6 @@
  */
 class Solution {
 public:
-    ListNode* middleOfLL(ListNode* head){
-        ListNode* slow = head;
-        ListNode* fast = head;
-        
-        while(fast != nullptr and fast->next != nullptr){
-            slow = slow->next;
-            fast = fast->next->next;
-        }
-        return slow;
-    }
-    
     ListNode* reverse(ListNode* head){
         ListNode* curr = head;
         ListNode* prev = NULL;
@@ -39,8 +28,17 @@ public:
         if(head == nullptr or head->next == nullptr){
             return;
         }
+        ListNode* slow = head;
+        ListNode* fast = head->next;
         
-        ListNode* mid = middleOfLL(head);
+        while(fast != nullptr and fast->next != nullptr){
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        
+        ListNode* mid = slow->next;
+        slow->next = nullptr;
+        
         ListNode* secondHead = reverse(mid);
         ListNode* firstHead = head;
         
@@ -54,8 +52,5 @@ public:
             secondHead = temp;
         }
         
-        if(firstHead != nullptr){
-            firstHead->next = nullptr;
-        }
     }
 };
