@@ -10,6 +10,7 @@ public:
     int eraseOverlapIntervals(vector<vector<int>>& intervals) {
         int eraseCount = 0;
         
+        //sort the intervals
         sort(intervals.begin(), intervals.end(), cmp);
         int temp = intervals[0][1];
         for(int it = 1; it < intervals.size(); it++){
