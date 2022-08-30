@@ -6,4 +6,5 @@
 - If temp > start point of current interval, we have an overlapping. Increment cnt.
 - Else, update temp to be the end point of current interval.
 ​
-### TC -> O(N) and SC -> O(N)
+### TC -> O(NlogN) and SC -> O(1)
+​
