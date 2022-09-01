@@ -11,24 +11,22 @@
 class Solution {
 public:
     ListNode* swapPairs(ListNode* head) {
-        if(head == nullptr or head->next == nullptr){
-            return head;
+        if(!head || !head->next) return head; //If there are less than 2 nodes in the given nodes, then no need to do anything just return the list as it is.
+		
+        ListNode* dummyNode = new ListNode();
+        
+        ListNode* prevNode=dummyNode;
+        ListNode* currNode=head;
+        
+        while(currNode && currNode->next){
+            prevNode->next = currNode->next;
+            currNode->next = prevNode->next->next;
+            prevNode->next->next = currNode;
+            
+            prevNode = currNode;
+            currNode = currNode->next;
         }
         
-        ListNode* curr = head, *prev = nullptr, *nn;
-        int cnt = 0;
-        
-        while(curr and cnt < 2){
-            nn = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = nn;
-            cnt++;
-        }
-        
-        if(nn){
-            head->next = swapPairs(nn);
-        }
-        return prev;
+        return dummyNode->next;
     }
 };
