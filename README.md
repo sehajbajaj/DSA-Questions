@@ -1,6 +1,6 @@
 # Data Structure and Algorithms
 
-This repository is created to track my progress and consistes of all the LeetCode Questions I have practiced so far.
+This repository is created to track my progress and consists of all the LeetCode Questions I have practiced so far.
 
 ## Sliding Window 
 
