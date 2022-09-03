@@ -15,3 +15,17 @@ This repository is created to track my progress and consistes of all the LeetCod
 - [x] [76. Minimum window substring](https://github.com/sehajbajaj/DSA-Questions/tree/main/76-minimum-window-substring)
 - [x] [30. Substring with concatenation of all words](https://github.com/sehajbajaj/DSA-Questions/tree/main/30-substring-with-concatenation-of-all-words)
 - [x] [239. Sliding window maximum](https://github.com/sehajbajaj/DSA-Questions/tree/main/239-sliding-window-maximum)
+
+## Fast and Slow Pointer
+
+- [x] [203. Remove Linked List elements](https://github.com/sehajbajaj/DSA-Questions/tree/main/203-remove-linked-list-elements)
+- [x] [83. Remove Duplicates from a sorted List](https://github.com/sehajbajaj/DSA-Questions/tree/main/83-remove-duplicates-from-sorted-list)
+- [x] [141. Linked List Cycle](https://github.com/sehajbajaj/DSA-Questions/tree/main/141-linked-list-cycle)
+- [x] [142. Linked List Cycle - ii](https://github.com/sehajbajaj/DSA-Questions/tree/main/142-linked-list-cycle-ii)
+- [x] [202. Happy Number](https://github.com/sehajbajaj/DSA-Questions/tree/main/202-happy-number)
+- [x] [876. Middle of Linked List](https://github.com/sehajbajaj/DSA-Questions/tree/main/876-middle-of-the-linked-list)
+- [x] [234. Palindrome Linked List](https://github.com/sehajbajaj/DSA-Questions/tree/main/234-palindrome-linked-list)
+- [x] [2. Add two numbers](https://github.com/sehajbajaj/DSA-Questions/tree/main/2-add-two-numbers)
+- [x] [19. Remove Nth Node from end of list](https://github.com/sehajbajaj/DSA-Questions/tree/main/19-remove-nth-node-from-end-of-list)
+- [x] [148. Sort List](https://github.com/sehajbajaj/DSA-Questions/tree/main/148-sort-list)
+- [x] [143. Reorder List](https://github.com/sehajbajaj/DSA-Questions/tree/main/143-reorder-list)
