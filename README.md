@@ -34,3 +34,6 @@ This repository is created to track my progress and consists of all the LeetCode
 
 - [x] [56. Merge Intervals](https://github.com/sehajbajaj/DSA-Questions/tree/main/56-merge-intervals)
 - [x] [57. Insert Interval](https://github.com/sehajbajaj/DSA-Questions/tree/main/57-insert-interval)
+- [x] [986. Interval List intersection](https://github.com/sehajbajaj/DSA-Questions/tree/main/986-interval-list-intersections)
+- [x] [435. Non-overlapping Intervals](https://github.com/sehajbajaj/DSA-Questions/tree/main/435-non-overlapping-intervals)
+
