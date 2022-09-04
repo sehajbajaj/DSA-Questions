@@ -29,3 +29,8 @@ This repository is created to track my progress and consists of all the LeetCode
 - [x] [19. Remove Nth Node from end of list](https://github.com/sehajbajaj/DSA-Questions/tree/main/19-remove-nth-node-from-end-of-list)
 - [x] [148. Sort List](https://github.com/sehajbajaj/DSA-Questions/tree/main/148-sort-list)
 - [x] [143. Reorder List](https://github.com/sehajbajaj/DSA-Questions/tree/main/143-reorder-list)
+
+## Merge Intervals
+
+- [x] [56. Merge Intervals](https://github.com/sehajbajaj/DSA-Questions/tree/main/56-merge-intervals)
+- [x] [57. Insert Interval](https://github.com/sehajbajaj/DSA-Questions/tree/main/57-insert-interval)
