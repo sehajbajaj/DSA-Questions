@@ -37,3 +37,30 @@ This repository is created to track my progress and consists of all the LeetCode
 - [x] [986. Interval List intersection](https://github.com/sehajbajaj/DSA-Questions/tree/main/986-interval-list-intersections)
 - [x] [435. Non-overlapping Intervals](https://github.com/sehajbajaj/DSA-Questions/tree/main/435-non-overlapping-intervals)
 
+## Cyclic Sort
+
+- [x] [268. Missing Number](https://github.com/sehajbajaj/DSA-Questions/tree/main/268-missing-number)
+- [x] [448. Find all the numbers disappeared in an array](https://github.com/sehajbajaj/DSA-Questions/tree/main/448-find-all-numbers-disappeared-in-an-array)
+- [x] [442. Find all duplicates in an array](https://github.com/sehajbajaj/DSA-Questions/tree/main/442-find-all-duplicates-in-an-array)
+- [x] [645. Set Mismatch](https://github.com/sehajbajaj/DSA-Questions/tree/main/645-set-mismatch)
+- [x] [41. First missing positive](https://github.com/sehajbajaj/DSA-Questions/tree/main/41-first-missing-positive)
+
+## In-place Reversal of a Linked List
+
+- [x] [206. Reverse a Linked List](https://github.com/sehajbajaj/DSA-Questions/tree/main/206-reverse-linked-list)
+- [x] [25. Reverse nodes in K-group](https://github.com/sehajbajaj/DSA-Questions/tree/main/25-reverse-nodes-in-k-group)
+- [x] [61. Rotate list](https://github.com/sehajbajaj/DSA-Questions/tree/main/61-rotate-list)
+- [x] [24. Swap nodes in pairs](https://github.com/sehajbajaj/DSA-Questions/tree/main/24-swap-nodes-in-pairs)
+- [x] [328. Odd Even Linked list](https://github.com/sehajbajaj/DSA-Questions/tree/main/328-odd-even-linked-list)
+
+## Breadth First Search (BFS)
+
+- [x] [102. Binary Tree Level Order Traversal](https://github.com/sehajbajaj/DSA-Questions/tree/main/102-binary-tree-level-order-traversal)
+- [x] [107. Binary Tree Level Order Traversal - ii](https://github.com/sehajbajaj/DSA-Questions/tree/main/107-binary-tree-level-order-traversal-ii)
+- [x] [103. Binary Tree Zig-zag level order traversal](https://github.com/sehajbajaj/DSA-Questions/tree/main/103-binary-tree-zigzag-level-order-traversal)
+- [x] [637. Average of Levels in a Binary Tree](https://github.com/sehajbajaj/DSA-Questions/tree/main/637-average-of-levels-in-binary-tree)
+- [x] [111. Minimum Depth of Binary Tree](https://github.com/sehajbajaj/DSA-Questions/tree/main/111-minimum-depth-of-binary-tree)
+- [x] [226. Invert Binary Tree](https://github.com/sehajbajaj/DSA-Questions/tree/main/226-invert-binary-tree)
+- [x] [116. Populating Next Right Pointers in Each node](https://github.com/sehajbajaj/DSA-Questions/tree/main/116-populating-next-right-pointers-in-each-node)
+- [x] [117. Populating Next Right Pointers in Each node - ii](https://github.com/sehajbajaj/DSA-Questions/tree/main/117-populating-next-right-pointers-in-each-node-ii)
+- [x] [199. Binary tree Right-side View](https://github.com/sehajbajaj/DSA-Questions/tree/main/199-binary-tree-right-side-view)
