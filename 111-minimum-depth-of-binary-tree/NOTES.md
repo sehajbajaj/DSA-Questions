@@ -6,8 +6,29 @@
 - Call for the left subtree and add 1 to the answer returned (depth increased).
 - Call for right subtree and add 1 to the answer returned.
 - else Return 1  + min(leftcall, rightcall)
-​
 ### TC -> O(N) and SC -> O(H) where h is the height of the tree.
+​
+```c++
+class Solution {
+public:
+int minDepth(TreeNode* root) {
+if(!root){
+return 0;
+}
+if(!root->left and !root->right){
+return 1;
+}
+if(!root->right){
+return 1 + minDepth(root->left);
+}
+if(!root->left){
+return 1 + minDepth(root->right);
+}else{
+return 1 + min(minDepth(root->left), minDepth(root->right));
+}
+}
+};
+```
 ​
 ### BFS - level order traversal
 ​
