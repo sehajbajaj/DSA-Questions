@@ -21,6 +21,11 @@ public:
     //Using curr and nxt pointers and connecting the next pointers befor actually traversing the levels
     //TC = O(N) AND SC = O(1)
     Node* connect(Node* root) {
+        
+        if(root == NULL){
+            return root;
+        }
+        
         Node* curr = root;
         Node* nxt;
         
