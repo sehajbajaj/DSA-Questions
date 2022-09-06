@@ -11,32 +11,25 @@
  */
 class Solution {
 public:
-    int helper(TreeNode* root, long long csum, int tsum, bool reset, set<TreeNode*>& resetted) {
-        if (!root) return 0;
-
-        if (reset and resetted.find(root) != resetted.end()) {
-            return 0;
-        }
-        if (reset) {
-            resetted.insert(root);
-        }
+    void helper(TreeNode* root, long long csum, int tsum, int& ans, unordered_map<long long, int>& mark) {
+        if (!root) return;
         
         csum += root->val;
-        int count = 0;
-
-        if (csum == tsum) count++;
-
-        count += helper(root->left, csum, tsum, 0, resetted);
-        count += helper(root->right, csum, tsum, 0, resetted);
-        count += helper(root->left, 0, tsum, 1, resetted);
-        count += helper(root->right, 0, tsum, 1, resetted);
-        
-        return count;
-    }
+        if(csum == tsum){
+            ans++;
+        }
+        ans += mark[csum];
+        long long goal = csum + tsum;
+        mark[goal] += 1;
+        helper(root->left, csum, tsum, ans, mark);
+        helper(root->right, csum, tsum, ans, mark);
+        mark[goal] -= 1;
+}
     
     int pathSum(TreeNode* root, int targetSum) {
-        bool reset = 1;
-        set<TreeNode*> resetted;
-        return helper(root, 0, targetSum, reset, resetted);
+        int ans = 0;
+        unordered_map<long long, int> mark;
+        helper(root, 0, targetSum, ans, mark);
+        return ans;
     }
 };
