@@ -64,3 +64,4 @@ This repository is created to track my progress and consists of all the LeetCode
 - [x] [116. Populating Next Right Pointers in Each node](https://github.com/sehajbajaj/DSA-Questions/tree/main/116-populating-next-right-pointers-in-each-node)
 - [x] [117. Populating Next Right Pointers in Each node - ii](https://github.com/sehajbajaj/DSA-Questions/tree/main/117-populating-next-right-pointers-in-each-node-ii)
 - [x] [199. Binary tree Right-side View](https://github.com/sehajbajaj/DSA-Questions/tree/main/199-binary-tree-right-side-view)
+- [x] [662. Maximum Width of Binary Tree](https://github.com/sehajbajaj/DSA-Questions/tree/main/662-maximum-width-of-binary-tree)
