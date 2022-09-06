@@ -10,3 +10,15 @@
 ​
 ### TC - O(N2) and SC - O(N)
 ​
+### Optimized
+​
+- The idea is to use cummulative sum or prefix sum approach.
+- While calculating sum(i, j) for an array, teh answer can be calculated easily by storing cumulative sums in cums array. ans = cums[j+1] - cums[i].
+- Using the same idea here, we can replace the logic of resetting the csum.
+- But since, in a tree we don't have random access facility so we need a data structure to store all the values visited. Use hashmap for this.
+- Before calling for left and right sub trees, we will set some future goals **goal = csum + targetSum** for our recursion to meet **mark[goal] += 1**.
+- We are baiting the future dfs calls to find us the goal. If any of the calls find the goal, we will happily increment the answer by the value of csum stored in the map **ans += mark[csum]**.
+- At some point in future when our csum becomes equal to goal, we have already marked it as 1 or set. We should also be able to remove this goal after the calls are made and we have updated our ans.
+​
+### TC - O(N) and SC - O(N)
+​
