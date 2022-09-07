@@ -19,10 +19,9 @@ public:
         
         int leftSum = max(0, helper(root->left, ans));
         int rightSum = max(0, helper(root->right, ans));
-        int straightPath = root->val + max(leftSum, rightSum);
         ans = max(ans, root->val + leftSum + rightSum);
         
-        return straightPath;
+        return root->val + max(leftSum, rightSum);
     }
     int maxPathSum(TreeNode* root) {
         int ans = INT_MIN;
