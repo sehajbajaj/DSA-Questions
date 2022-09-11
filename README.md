@@ -78,3 +78,5 @@ This repository is created to track my progress and consists of all the LeetCode
 - [x] [100. Same Tree](https://github.com/sehajbajaj/DSA-Questions/tree/main/100-same-tree)
 - [x] [101. Symmetric Tree](https://github.com/sehajbajaj/DSA-Questions/tree/main/101-symmetric-tree)
 - [x] [572. Subtree of Another Tree](https://github.com/sehajbajaj/DSA-Questions/tree/main/572-subtree-of-another-tree)
+- [x] [110. Balanced Binary Tree](https://github.com/sehajbajaj/DSA-Questions/tree/main/110-balanced-binary-tree)
+- [x] [617. Merge two Binary Trees](https://github.com/sehajbajaj/DSA-Questions/tree/main/617-merge-two-binary-trees)
