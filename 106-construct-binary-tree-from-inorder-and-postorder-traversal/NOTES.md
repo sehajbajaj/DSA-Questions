@@ -1,0 +1,3 @@
+- The idea is to use the fact that root is always at the last of the postOrder array.
+- Find for the root in inorder array and store it's index.
+- Look for left and right children in the same manner.
