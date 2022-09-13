@@ -94,3 +94,5 @@ This repository is created to track my progress and consists of all the LeetCode
 - [x] [297. Serialize and Deserialize Binary Tree](https://github.com/sehajbajaj/DSA-Questions/tree/main/297-serialize-and-deserialize-binary-tree)
 - [x] [654. Maximum Binary Tree](https://github.com/sehajbajaj/DSA-Questions/tree/main/654-maximum-binary-tree)
 - [x] [114. Flatten Binary Tree to Linked List](https://github.com/sehajbajaj/DSA-Questions/tree/main/114-flatten-binary-tree-to-linked-list)
+- [x] [98. Validate Binary Search Tree](https://github.com/sehajbajaj/DSA-Questions/tree/main/98-validate-binary-search-tree)
+- [x] [230. Kth Smallest Element in a BST](https://github.com/sehajbajaj/DSA-Questions/tree/main/230-kth-smallest-element-in-a-bst)
