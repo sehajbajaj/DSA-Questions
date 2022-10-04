@@ -96,3 +96,14 @@ This repository is created to track my progress and consists of all the LeetCode
 - [x] [114. Flatten Binary Tree to Linked List](https://github.com/sehajbajaj/DSA-Questions/tree/main/114-flatten-binary-tree-to-linked-list)
 - [x] [98. Validate Binary Search Tree](https://github.com/sehajbajaj/DSA-Questions/tree/main/98-validate-binary-search-tree)
 - [x] [230. Kth Smallest Element in a BST](https://github.com/sehajbajaj/DSA-Questions/tree/main/230-kth-smallest-element-in-a-bst)
+
+## Graphs
+
+- [x] [1020. Number of Enclaves](https://github.com/sehajbajaj/DSA-Questions/tree/main/1020-number-of-enclaves)
+- [x] [130. Surrounded Regions](https://github.com/sehajbajaj/DSA-Questions/tree/main/130-surrounded-regions)
+- [x] [200. Number of Islands](https://github.com/sehajbajaj/DSA-Questions/tree/main/200-number-of-islands)
+- [x] [542. 01 Matrix](https://github.com/sehajbajaj/DSA-Questions/tree/main/542-01-matrix)
+- [x] [547. Number of provinces](https://github.com/sehajbajaj/DSA-Questions/tree/main/547-number-of-provinces)
+- [x] [733. Flood Fill](https://github.com/sehajbajaj/DSA-Questions/tree/main/733-flood-fill)
+- [x] [785. Is Graph Bipartite](https://github.com/sehajbajaj/DSA-Questions/tree/main/785-is-graph-bipartite)
+- [x] [994. Rotting Oranges](https://github.com/sehajbajaj/DSA-Questions/tree/main/994-rotting-oranges)   
