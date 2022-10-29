@@ -1,0 +1,2 @@
+* Start from back, eliminate all the leading spaces spaces
+* Again traverse the string from the index after eliminating the leading spaces and keep counting the length of the word will hit the first space.
