@@ -44,6 +44,7 @@ This repository is created to track my progress and consists of all the LeetCode
 - [x] [442. Find all duplicates in an array](https://github.com/sehajbajaj/DSA-Questions/tree/main/442-find-all-duplicates-in-an-array)
 - [x] [645. Set Mismatch](https://github.com/sehajbajaj/DSA-Questions/tree/main/645-set-mismatch)
 - [x] [41. First missing positive](https://github.com/sehajbajaj/DSA-Questions/tree/main/41-first-missing-positive)
+- [x] [287. Find the Duplicate Number](https://github.com/sehajbajaj/DSA-Questions/tree/main/287-find-the-duplicate-number)
 
 ## In-place Reversal of a Linked List
 
@@ -52,6 +53,7 @@ This repository is created to track my progress and consists of all the LeetCode
 - [x] [61. Rotate list](https://github.com/sehajbajaj/DSA-Questions/tree/main/61-rotate-list)
 - [x] [24. Swap nodes in pairs](https://github.com/sehajbajaj/DSA-Questions/tree/main/24-swap-nodes-in-pairs)
 - [x] [328. Odd Even Linked list](https://github.com/sehajbajaj/DSA-Questions/tree/main/328-odd-even-linked-list)
+- [x] [92. Reverse a Linked List - ii](https://github.com/sehajbajaj/DSA-Questions/tree/main/92-reverse-linked-list-ii)
 
 ## Breadth First Search (BFS)
 
@@ -107,3 +109,23 @@ This repository is created to track my progress and consists of all the LeetCode
 - [x] [733. Flood Fill](https://github.com/sehajbajaj/DSA-Questions/tree/main/733-flood-fill)
 - [x] [785. Is Graph Bipartite](https://github.com/sehajbajaj/DSA-Questions/tree/main/785-is-graph-bipartite)
 - [x] [994. Rotting Oranges](https://github.com/sehajbajaj/DSA-Questions/tree/main/994-rotting-oranges)   
+
+## Heaps 
+
+- [x] [0295. Find median from Data Stream](https://github.com/sehajbajaj/DSA-Questions/tree/main/0295-find-median-from-data-stream)
+- [x] [0502. IPO](https://github.com/sehajbajaj/DSA-Questions/tree/main/0502-ipo)
+
+## Two Pointer
+
+- [x] [1. Two Sum](https://github.com/sehajbajaj/DSA-Questions/tree/main/1-two-sum)
+- [x] [11. Container with Most Water](https://github.com/sehajbajaj/DSA-Questions/tree/main/11-container-with-most-water)
+- [x] [26. Remove Duplicates from Sorted Array](https://github.com/sehajbajaj/DSA-Questions/tree/main/26-remove-duplicates-from-sorted-array)
+- [x] [42. Trapping Rainwater](https://github.com/sehajbajaj/DSA-Questions/tree/main/42-trapping-rain-water)
+- [x] [0014. Longest Common Prefix](https://github.com/sehajbajaj/DSA-Questions/tree/main/0014-longest-common-prefix)
+
+## Subsets
+
+- [x] [0078. Subsets](https://github.com/sehajbajaj/DSA-Questions/tree/main/0078-subsets)
+- [x] [0090. Subsets - ii](https://github.com/sehajbajaj/DSA-Questions/tree/main/0090-subsets-ii)
+- [x] [0046. Permutations](https://github.com/sehajbajaj/DSA-Questions/tree/main/0046-permutations)
+- [x] [0047. Permutations - ii](https://github.com/sehajbajaj/DSA-Questions/tree/main/0047-permutations-ii)
